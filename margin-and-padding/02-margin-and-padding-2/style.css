@@ -12,8 +12,8 @@ body {
 
 .title, .content, .button-container {
   background: #e3f4ff;
-  margin: 6px 7px;
-  padding: 5px;
+  margin: 7px 8px;
+  padding: 8px;
 }
 
 button {
@@ -22,7 +22,7 @@ button {
 }
 
 .title {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 1000;
 }
 
