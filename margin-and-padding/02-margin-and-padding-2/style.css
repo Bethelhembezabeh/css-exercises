@@ -13,7 +13,7 @@ body {
 .title, .content, .button-container {
   background: #e3f4ff;
   margin: 6px 7px;
-  padding: 10px;
+  padding: 5px;
 }
 
 button {
@@ -21,6 +21,21 @@ button {
   border: 1px solid #eee;
 }
 
-h1 {
-  font-size: larger;
+.title {
+  font-size: 15px;
+  font-weight: 1000;
+}
+
+.content {
+  font-size: 15px;
+}
+
+button {
+  display: block;
+  margin: 0px auto;
+}
+
+.button-container {
+  font-size: 15px;
+  text-align: center;
 }
