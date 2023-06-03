@@ -67,6 +67,9 @@ button {
 button {
   display: block;
   margin: 0 auto;
+  background-color: white;
+  border: 1px beige solid;
+  padding: 10px 15px;
 }
 
 div {
