@@ -51,13 +51,14 @@ button {
   box-sizing: border-box;
 }
 
-div h1,
-div p {
+.box h1,
+.box p {
   background-color: rgb(215, 245, 255);
   border: solid white;
   margin: 10px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: large;
+  padding: 10px;
 }
 
 .btn {
