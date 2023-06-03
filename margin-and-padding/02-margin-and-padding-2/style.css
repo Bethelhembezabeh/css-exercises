@@ -47,13 +47,13 @@ button {
 
 
 *{
-  background-color: rgb(204, 201, 201);
+  background-color: rgb(243, 235, 235);
   box-sizing: border-box;
 }
 
 div h1,
 div p {
-  background-color: lightblue;
+  background-color: rgb(215, 245, 255);
   border: solid white;
   margin: 10px;
 
@@ -62,6 +62,8 @@ div {
   background-color: white;
   /*padding: 5px;*/
   border: 1px solid white;
+  width: 50%;
+  margin: 0 auto;
 }
 
 
