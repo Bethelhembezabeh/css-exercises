@@ -56,8 +56,16 @@ div p {
   background-color: rgb(215, 245, 255);
   border: solid white;
   margin: 10px;
-
 }
+
+.btn {
+  text-align: center;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
+
 div {
   background-color: white;
   /*padding: 5px;*/
