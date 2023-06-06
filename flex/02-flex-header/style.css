@@ -24,12 +24,27 @@ a {
   text-decoration: none;
 }
 
-.header,.left-links,.right-links{
+.header{
   display: flex;
- 
 }
 
 .left-links ul,
 .right-links ul {
   display: flex;
+
+}
+
+.left-links {
+  flex: 1;
+  align-self: flex-start;
+}
+ 
+.logo {
+  flex: 1;
+  align-self: center;
+}
+
+.right-links {
+  flex: 1;
+  align-self: flex-end;
 }
