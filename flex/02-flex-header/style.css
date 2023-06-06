@@ -31,7 +31,7 @@ a {
 .left-links ul,
 .right-links ul {
   display: flex;
-
+  gap: 1rem;
 }
 
 .left-links {
