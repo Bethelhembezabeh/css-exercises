@@ -26,6 +26,7 @@ a {
 
 .header{
   display: flex;
+  flex: 1;
 }
 
 .left-links ul,
@@ -40,7 +41,6 @@ a {
 }
  
 .logo {
-  flex: 1;
   align-self: center;
 }
 
