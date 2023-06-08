@@ -35,6 +35,14 @@ a {
   gap: 1rem;
 }
 
+.left-links ul{
+  justify-content: flex-start;
+}
+
+.right-links ul{
+  justify-content: flex-end;
+}
+
 .left-links {
   flex: 1;
   align-self: flex-start;
