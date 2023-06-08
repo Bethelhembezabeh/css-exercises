@@ -43,7 +43,11 @@ a {
   justify-content: flex-end;
 }
 
-.left-links {
+.right-links, .logo, .left-links {
+  flex: 1;
+}
+
+/* .left-links {
   flex: 1;
   align-self: flex-start;
 }
@@ -55,4 +59,4 @@ a {
 .right-links {
   flex: 1;
   align-self: flex-end;
-}
+} */
