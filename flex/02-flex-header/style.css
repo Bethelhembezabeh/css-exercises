@@ -51,17 +51,3 @@ a {
 .right-links, .left-links {
   flex: 1;
 }
-
-/* .left-links {
-  flex: 1;
-  align-self: flex-start;
-}
- 
-.logo {
-  align-self: center;
-}
-
-.right-links {
-  flex: 1;
-  align-self: flex-end;
-} */
