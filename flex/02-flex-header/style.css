@@ -9,6 +9,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 1vh;
 }
 
 ul {
@@ -28,6 +29,7 @@ a {
 .header{
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
 }
 
 .left-links ul,
