@@ -44,7 +44,7 @@ a {
   justify-content: flex-end;
 }
 
-.right-links, .logo, .left-links {
+.right-links, .left-links {
   flex: 1;
 }
 
