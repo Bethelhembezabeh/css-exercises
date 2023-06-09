@@ -9,7 +9,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 1vh;
+  margin: 2vh;
 }
 
 ul {
@@ -40,10 +40,12 @@ a {
 
 .left-links ul{
   justify-content: flex-start;
+  padding: 0 10px;
 }
 
 .right-links ul{
   justify-content: flex-end;
+  padding: 0 10px;
 }
 
 .right-links, .left-links {
