@@ -50,4 +50,5 @@ ul {
 /* Solution */
 div.header-left,div.header-right,div.header,.links{
   display: flex;  
+  justify-content: space-between;
 }
