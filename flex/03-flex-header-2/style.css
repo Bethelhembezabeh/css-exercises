@@ -46,3 +46,8 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* Solution */
+div.header-left,div.header-right,div.header,.links{
+  display: flex;  
+}
