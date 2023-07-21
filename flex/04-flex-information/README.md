@@ -7,7 +7,30 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 ## Desired outcome
 
 ![desired outcome](./desired-outcome.png)
-
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 ### Self Check
 
 - All items are centered on the page (horizontally, not vertically).
