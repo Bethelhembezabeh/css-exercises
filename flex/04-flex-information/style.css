@@ -28,8 +28,14 @@ img {
 .plants {
   display: flex;
   justify-content: center;
+;
 }
 
 .title {
   text-align: center;
+}
+
+.descriptions {
+  padding: 15px;
+  max-width: 220px;
 }
