@@ -32,11 +32,12 @@ img {
 ;
 }
 
-* {
+body {
   text-align: center;
 }
 
 .descriptions {
   margin: 32px 0px;
-  width: 200px;
+  /* width: 200px; */
+  max-width: 200px;
 }
