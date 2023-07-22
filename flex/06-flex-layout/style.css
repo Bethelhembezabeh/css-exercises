@@ -29,8 +29,20 @@ input {
 /* Solution */
 body,.header,.content,.footer {
   display: flex;
+  justify-content: space-between;
 }
 
 body,.content {
   flex-direction: column;
+}
+
+
+li {
+  float: left;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(110, 110, 110);
 }
