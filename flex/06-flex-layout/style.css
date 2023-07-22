@@ -30,3 +30,7 @@ input {
 body,.header,.content,.footer {
   display: flex;
 }
+
+body,.content {
+  flex-direction: column;
+}
