@@ -62,3 +62,7 @@ ul {
   align-self: center;
   align-items: center;
 }
+
+button {
+  padding: 10px 15px;
+}
