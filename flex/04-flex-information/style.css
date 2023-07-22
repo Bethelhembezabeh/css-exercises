@@ -36,6 +36,6 @@ img {
 }
 
 .descriptions {
-  padding: 15px;
-  max-width: 220px;
+  margin: 32px 0px;
+  width: 200px;
 }
