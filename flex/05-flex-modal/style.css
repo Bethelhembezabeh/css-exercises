@@ -67,4 +67,13 @@ button.cancel {
 
 .modal {
   display: flex;
+  justify-content: space-evenly;
+  /* gap: 20px; */
 }
+
+.middle_sec {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 100;
+}
+
