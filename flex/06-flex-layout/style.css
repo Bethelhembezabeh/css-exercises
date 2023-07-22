@@ -25,3 +25,8 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+/* Solution */
+body,.header,.content,.footer {
+  display: flex;
+}
