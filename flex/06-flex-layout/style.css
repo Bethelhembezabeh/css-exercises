@@ -56,3 +56,9 @@ ul {
 .footer {
   background-color: #eee;
 }
+
+.content {
+  justify-self: center;
+  align-self: center;
+  align-items: center;
+}
