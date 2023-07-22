@@ -65,21 +65,23 @@ button.cancel {
   color: royalblue;
 }
 
-div {
+/* div {
   margin: 5px;
-}
+} */
 
 .modal {
   display: flex;
   /* justify-content: space-around; */
-  padding: 8px;
-  /* gap: 20px; */
+  padding: 15px;
+  gap: 15px;
 }
 
 .middle_sec {
   display: flex;
   flex-direction: column;
   flex-shrink: 100;
+  justify-content: center;
+  gap: 15px;
 }
 
 .header {
@@ -87,3 +89,10 @@ div {
   font-size: large;
 }
 
+.icon {
+  justify-self: flex-start;
+}
+
+.close-button {
+  justify-self: flex-end;
+}
