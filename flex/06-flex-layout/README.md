@@ -9,6 +9,36 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 ### Self Check
 
