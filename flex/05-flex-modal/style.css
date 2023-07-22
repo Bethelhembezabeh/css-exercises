@@ -65,9 +65,14 @@ button.cancel {
   color: royalblue;
 }
 
+div {
+  margin: 5px;
+}
+
 .modal {
   display: flex;
-  justify-content: space-evenly;
+  /* justify-content: space-around; */
+  padding: 8px;
   /* gap: 20px; */
 }
 
