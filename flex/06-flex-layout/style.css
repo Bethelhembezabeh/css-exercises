@@ -27,6 +27,7 @@ input {
 }
 
 /* Solution */
+
 body,.header,.content,.footer {
   display: flex;
   justify-content: space-between;
@@ -51,6 +52,8 @@ a {
 ul {
   padding: 0px;
   margin: 0px;
+  /* gap: 10px; 
+  Solution has set ul to flex container */
 }
 
 .footer {
@@ -58,9 +61,13 @@ ul {
 }
 
 .content {
-  justify-self: center;
-  align-self: center;
+  /* what does flex: 1; do here??*/
+  /* justify-self: center;
+  align-self: center; Not needed*/
   align-items: center;
+  /*Solution */
+  justify-content: center;
+  gap: 2px;
 }
 
 button {
